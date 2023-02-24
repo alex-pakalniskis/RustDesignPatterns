@@ -1,0 +1,1 @@
+/home/alex/code/rust/design-patterns/behavioural-command/behavioural-command/target/debug/function_pointers: /home/alex/code/rust/design-patterns/behavioural-command/behavioural-command/src/bin/function_pointers.rs
